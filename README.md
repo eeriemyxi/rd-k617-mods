@@ -20,3 +20,6 @@ Head over to installation directory at `C:\Program Files (x86)\Redragon K617-RGB
 
 > [!NOTE]
 > The software seems to load the configuration file in memory, so make sure to restart the app after making changes to the `Cfg.ini` file.
+
+# Credits
+- [redragonKB-remap](https://github.com/octenite/redragonKB-remap/)
