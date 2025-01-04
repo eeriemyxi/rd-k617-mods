@@ -3,7 +3,7 @@ My modifications for Redragon K617 Keyboard.
 
 # Modifications
 `Cfg.ini` contains the following remaps:
-- Colemak Layout
+- Colemak keyboard Layout
 - Remaps "App" key (the key on the right side of the FN key) as backspace.
 - Capslock key as Left Control key.
 - Left Control key as another FN key.
@@ -16,7 +16,8 @@ My modifications for Redragon K617 Keyboard.
   - b as mute media
   - k as play-pause media
 
-`colemak.bk` is a profile for K617 software that implements Colemak keyboard layout. It also:
+`colemak.bk` is a profile for K617 software that remaps:
+- Colemak keyboard layout.
 - Remaps "App" key (the key on the right side of the FN key) as backspace.
 
 > [!NOTE]
