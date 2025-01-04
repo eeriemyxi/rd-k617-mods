@@ -30,10 +30,10 @@ My modifications for Redragon K617 Keyboard.
 
 Head over to installation directory at `C:\Program Files (x86)\Redragon K617-RGB`. Then replace the `Cfg.ini` file with the one in this repository. Once done, click on `KeyboardDrv.exe` then click `Restore` and `Apply`. 
 
-Either do that or just open the software then import and apply the profile `colemak.bk`.
+Either do that or just open the software then import and apply the profile `colemak.bk` (very limited compared to `Cfg.ini`).
 
 > [!NOTE]
-> The software seems to load the configuration file in memory, so make sure to restart the app after making changes to the `Cfg.ini` file (very limited compared to `Cfg.ini`.
+> The software seems to load the configuration file in memory, so make sure to restart the app after making changes to the `Cfg.ini` file.
 
 # Credits
 - [redragonKB-remap](https://github.com/octenite/redragonKB-remap/)
