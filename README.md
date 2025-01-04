@@ -31,7 +31,7 @@ My modifications for Redragon K617 Keyboard.
 
 # How To Apply
 > [!IMPORTANT]
-> Make sure you have the personalisation software installed from [here](https://cdn.shopify.com/s/files/1/2695/9506/files/Redragon_K617-RGB_Setup.exe?v=1658806701).
+> Make sure you have the personalisation software installed from [here](https://www.redragonzone.com/pages/download) (search K617 and download for your variant).
 
 Head over to installation directory at `C:\Program Files (x86)\Redragon K617-RGB`. Then replace the `Cfg.ini` file with the one in this repository. Once done, click on `KeyboardDrv.exe` then click `Restore` and `Apply`. 
 
