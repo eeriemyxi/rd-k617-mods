@@ -20,8 +20,9 @@ My modifications for Redragon K617 Keyboard.
 - Colemak keyboard layout.
 - Remaps "App" key (the key on the right side of the FN key) as backspace.
 
-> [!NOTE]
-> `Cfg.ini` and `colemak.bk` are not intended to be used together.
+> [!WARNING]
+> `Cfg.ini` and `colemak.bk` are not to be used together. Use either one of them, not both.
+
 # Extras
 `Cfg-stock.ini` is the stock configuration file.
 
