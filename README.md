@@ -33,7 +33,7 @@ Head over to installation directory at `C:\Program Files (x86)\Redragon K617-RGB
 Either do that or just open the software then import and apply the profile `colemak.bk`.
 
 > [!NOTE]
-> The software seems to load the configuration file in memory, so make sure to restart the app after making changes to the `Cfg.ini` file.
+> The software seems to load the configuration file in memory, so make sure to restart the app after making changes to the `Cfg.ini` file (very limited compared to `Cfg.ini`.
 
 # Credits
 - [redragonKB-remap](https://github.com/octenite/redragonKB-remap/)
