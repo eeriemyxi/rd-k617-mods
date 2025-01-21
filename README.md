@@ -19,6 +19,7 @@ My modifications for Redragon K617 Keyboard.
   - b as mute media
   - k as play-pause media
   - q as prnt scrn
+  - c as capslock
 
 `colemak.bk` is a profile for K617 software that remaps:
 - Colemak keyboard layout.
